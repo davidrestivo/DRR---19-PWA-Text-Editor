@@ -20,11 +20,11 @@ Inspect the web browser and go to the application tab. There click on Manifest t
 
 ## Screen shots
 
-![Screenshot for my homework](./client/dist/assets/images/DRR%2019-PWA%20indexDB.png)
+![Screenshot for my homework](./client/dist/assets/images/DRR-19-PWA-indexDB.png)
 
-![Screenshot for my homework](./client/dist/assets/images/DRR%2019-PWA%20Manifest.png)
+![Screenshot for my homework](./client/dist/assets/images/DRR-19-PWA-Manifest.png)
 
-![Screenshot for my homework](./client/dist/assets/images/DRR%2019-PWA%20Service%20Workers.png)
+![Screenshot for my homework](./client/dist/assets/images/DRR-19-PWA-Service-Workers.png)
 
 
 
