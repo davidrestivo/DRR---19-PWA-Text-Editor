@@ -19,7 +19,7 @@ You can then press the Install button. This will allow for you to add text in th
 
 Inspect the web browser and go to the application tab. There click on Manifest to see the manifest.json. THen click Service Workers to see the registered Service Workers. The click on IndexDB, then Jate and then Jate to see the IndexDB storage.
 
-## Screen shots
+## Screen shots - "The screenshots show up in my VS Code Preview"
 
 ![Screenshot for my homework](./client/dist/assets/images/DRR-19-PWA-indexDB.png)
 
@@ -27,7 +27,6 @@ Inspect the web browser and go to the application tab. There click on Manifest t
 
 ![Screenshot for my homework](/homework/DRR---19-PWA-Text-Editor/client/dist/assets/images/DRR-19-PWA-Service-Workers.png)
 
-![Screenshot for my homework](./Assets/images/davids-profile-page-screen-capture.png)
 
 
 
