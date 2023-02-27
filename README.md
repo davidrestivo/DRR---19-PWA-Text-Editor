@@ -7,6 +7,7 @@ With this project we were tasked to build a text editor that runs in the browser
 
 https://github.com/davidrestivo/DRR-18-NoSQL-Social-Network-API
 
+https://dashboard.heroku.com/apps/agile-retreat-90310
 
 
 ## Instruction
@@ -20,7 +21,7 @@ Inspect the web browser and go to the application tab. There click on Manifest t
 
 ## Screen shots
 
-![Screenshot for my homework](/homework/DRR---19-PWA-Text-Editor/client/dist/assets/images/DRR-19-PWA-indexDB.png)
+![Screenshot for my homework](./client/dist/assets/images/DRR-19-PWA-indexDB.png)
 
 ![Screenshot for my homework](/homework/DRR---19-PWA-Text-Editor/client/dist/assets/images/DRR-19-PWA-Manifest.png)
 
