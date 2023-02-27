@@ -7,6 +7,8 @@ With this project we were tasked to build a text editor that runs in the browser
 
 https://github.com/davidrestivo/DRR-18-NoSQL-Social-Network-API
 
+
+
 ## Instruction
 
 To Start, clone this repository. Open this file in the Integrated Terminal. Install all of your dependencies. In the terminal, type: npm run start
@@ -17,6 +19,18 @@ You can then press the Install button. This will allow for you to add text in th
 Inspect the web browser and go to the application tab. There click on Manifest to see the manifest.json. THen click Service Workers to see the registered Service Workers. The click on IndexDB, then jate and then jate to see the IndexDB storage.
 
 ## Screen shots
+
+![Screenshot for my homework](./client/dist/assets/images/DRR%2019-PWA%20indexDB.png)
+
+![Screenshot for my homework](./client/dist/assets/images/DRR%2019-PWA%20Manifest.png)
+
+![Screenshot for my homework](./client/dist/assets/images/DRR%2019-PWA%20Service%20Workers.png)
+
+
+
+
+
+
 
 
 
