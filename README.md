@@ -26,6 +26,8 @@ Inspect the web browser and go to the application tab. There click on Manifest t
 
 ![Screenshot for my homework](/homework/DRR---19-PWA-Text-Editor/client/dist/assets/images/DRR-19-PWA-Service-Workers.png)
 
+![Screenshot for my homework](./Assets/images/davids-profile-page-screen-capture.png)
+
 
 
 
