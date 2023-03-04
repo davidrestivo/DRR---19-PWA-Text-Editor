@@ -5,7 +5,7 @@ With this project we were tasked to build a text editor that runs in the browser
 
 ## Links
 
-https://github.com/davidrestivo/DRR-18-NoSQL-Social-Network-API
+https://github.com/davidrestivo/DRR---19-PWA-Text-Editor
 
 https://dashboard.heroku.com/apps/agile-retreat-90310
 
